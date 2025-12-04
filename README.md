@@ -30,7 +30,7 @@ A Liquid Glass icon designed for [Transmission](https://www.transmissionbt.com) 
 
 1. Open the Applications folder.
 2. Right click Transmission.app → Get Info.
-3. Drag the PNG onto the icon preview in the top-left corner  
+3. Drag the PNG onto the icon preview in the top-left corner.
 4. Close the Info window and relaunch Transmission if needed.
 
 ## 📄 License — CC0 1.0 Universal
