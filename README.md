@@ -11,17 +11,13 @@ Color reference and general visual direction take inspiration from the [Transmis
 
 ## Assets
 
-- **`.icon` File (macOS 26+)**
-  Native Liquid Glass icon with automatic light/dark switching. Intended for maintainers or anyone building Transmission from source. Crucially, this cannot be applied through Finder’s Get Info menu.
+- **`.icon` File (macOS 26+)** - Native Liquid Glass icon with automatic light/dark switching. Intended for maintainers or anyone building Transmission from source. Crucially, this cannot be applied through Finder’s Get Info menu.
   
-* **Raw PNGs**
-Original 1024x1024 renders without padding or shadow, exported directly from Apple's Icon Composer. Not suitable for directly replacing the app icon as it renders too large in the Dock and app switcher.
+* **Raw PNGs** - Original 1024x1024 renders without padding or shadow, exported directly from Apple's Icon Composer. Not suitable for directly replacing the app icon as it renders too large in the Dock and app switcher.
 
-* **Padded PNGs**
-Scaled down to fit and match other apps in the Dock and app switcher. Does not have a shadow like other app icons.
+* **Padded PNGs** - Scaled down to fit and match other apps in the Dock and app switcher. Does not have a shadow like other app icons.
 
-* **Padded Shadow PNGs**
-Padded and has a shadow. Closely matches other Liquid Glass app icons. Recommended for direct icon replacement.
+* **Padded Shadow PNGs** - Padded and has a shadow. Closely matches other Liquid Glass app icons. Recommended for direct icon replacement.
 
 ## Installation (for PNG format)
 
