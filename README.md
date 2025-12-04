@@ -20,11 +20,11 @@ Color reference and general visual direction take inspiration from the [Transmis
 * **Padded Shadow PNGs** - Padded and has a shadow. Closely matches other Liquid Glass app icons. Recommended for direct icon replacement.
 
 ## Most users should download this:
-➡️ [Light PaddedShadow PNG](PNG/PaddedShadow/Transmission-Light-PaddedShadow.png)  
-➡️ [Dark PaddedShadow PNG](PNG/PaddedShadow/Transmission-Dark-PaddedShadow.png)
+→ [Light Padded Shadow PNG](PNG/PaddedShadow/Transmission-Light-PaddedShadow.png)  
+→ [Dark Padded Shadow PNG](PNG/PaddedShadow/Transmission-Dark-PaddedShadow.png)
 
 ### Developers:
-📄 [Transmission.icon](LiquidGlass-ICON/Transmission.icon)
+→ [Transmission.icon](LiquidGlass-ICON/Transmission.icon)
 
 ## Installation (for PNG format)
 
