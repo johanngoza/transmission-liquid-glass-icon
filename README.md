@@ -1,5 +1,5 @@
 
-# 🚀 Transmission Liquid Glass Icon
+# Transmission Liquid Glass Icon
 
 A Liquid Glass icon designed for [Transmission](https://www.transmissionbt.com) to fit macOS 26's Liquid Glass aesthetic. Simple and consistent with the new Tahoe style. No unflattering gray squircle and no Big Sur-era 3D shading.
 
