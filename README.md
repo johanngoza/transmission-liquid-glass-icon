@@ -23,7 +23,7 @@ A Liquid Glass icon designed for [Transmission](https://www.transmissionbt.com) 
 → [Light Padded Shadow PNG](PNG/PaddedShadow/Transmission-Light-PaddedShadow.png)  
 → [Dark Padded Shadow PNG](PNG/PaddedShadow/Transmission-Dark-PaddedShadow.png)
 
-### 🧩 Developers
+### 🧩 Developers, for use in Icon Composer
 → [Transmission-LiquidGlass.icon](LiquidGlass-ICON/Transmission-LiquidGlass.icon)
 
 ## 🛠 Installation (PNG method)
